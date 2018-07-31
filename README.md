@@ -1,2 +1,2 @@
-# dogs
-Android app that browser dog images.
+# Dogs
+Android app that browse dog images.
